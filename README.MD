@@ -1,0 +1,3 @@
+- Shop web seite
+- Das heutige Projekt ist ein Online-Shop. Die Tabelle mit allen Produktinformationen
+- Verwende für das Layout CSS Grid.
